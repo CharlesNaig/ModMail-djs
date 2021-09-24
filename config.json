@@ -1,0 +1,58 @@
+{
+   "token": "token",
+   "version": 1,
+   "prefix": "&",
+   "debug": true,
+   "ownerid": "id",
+   "status": [
+      
+      {
+         "type": "",
+         "msg": ""},
+      {
+         "type": "",
+         "msg": ""
+      }
+   ],
+   "apiKeys": {
+      "api": "8fe53d0d-8868-478d-a18b-29de00cfa272"
+   },
+   "modmail": {
+      "guild": "guildid",
+      "enabled": true,
+      "category": "Tickets Support",
+      "rolesAllowed": [],
+      "color": 4784242,
+      "blockedUsers": [
+         ""
+      ]
+   },
+   "messages": {
+      "ticketDesc": "[p]This person need help dod",
+      "newTicket": "Hello Member please wait here until a staff member dm you back here! thank you",
+      "newTicketManual": "& is my prefix!",
+      "closedTicket": "If this has solved your question then I'm closing this thread at this time. Do not DM us back unless you need more help with name server!. Thanks and have a nice day!",
+      "blockedUserError": "You are blocked from using modmail..",
+      "disabled": "ModMail is currently disabled.",
+      "about": "Hello i am server name Modmail! I am a Discord service or Server Assistant!"
+   },
+   "snippets": [
+      "helo",
+      "",
+      "non"
+   ],
+   "role": {
+      "mod": "moderator id role",
+      "admin": "admin id role",
+      "member": "members id role"
+   },
+   "loops": {
+      "status": true
+   },
+   "services": {
+      "uptime": true
+   },
+   "channel": {
+      "log": "channel log id"
+   }
+}
